@@ -2,3 +2,4 @@ oak
 pine
 another oak
 another pine
+new tree
